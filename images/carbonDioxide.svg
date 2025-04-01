@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg id="b" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" width="150" height="83.49" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 150 83.49">
+<svg id="b" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" width="200" height="109.74" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 200 109.74">
   <defs>
     <style>
       .g {
@@ -20,24 +20,24 @@
         fill: url(#e);
       }
     </style>
-    <linearGradient id="d" x1="5" y1="41.74" x2="67.99" y2="41.74" gradientUnits="userSpaceOnUse">
+    <linearGradient id="d" x1="5" y1="54.87" x2="90.49" y2="54.87" gradientUnits="userSpaceOnUse">
       <stop offset="0" stop-color="#fff"/>
       <stop offset="1" stop-color="#e71e25"/>
     </linearGradient>
-    <linearGradient id="e" x1="40.01" y1="41.74" x2="113.5" y2="41.74" gradientUnits="userSpaceOnUse">
+    <linearGradient id="e" x1="52.52" y1="54.87" x2="152.26" y2="54.87" gradientUnits="userSpaceOnUse">
       <stop offset="0" stop-color="#fff"/>
       <stop offset="1" stop-color="#010101"/>
     </linearGradient>
-    <linearGradient id="f" x1="82.01" y1="41.74" x2="145" y2="41.74" gradientUnits="userSpaceOnUse">
+    <linearGradient id="f" x1="109.51" y1="54.87" x2="195" y2="54.87" gradientUnits="userSpaceOnUse">
       <stop offset="0" stop-color="#fff"/>
       <stop offset="1" stop-color="#d32027"/>
     </linearGradient>
   </defs>
   <g id="c" data-name="Layer 1">
     <g>
-      <circle class="h" cx="36.5" cy="41.74" r="31.5"/>
-      <circle class="i" cx="76.76" cy="41.74" r="36.74"/>
-      <circle class="g" cx="113.5" cy="41.74" r="31.5"/>
+      <circle class="h" cx="47.74" cy="54.87" r="42.74"/>
+      <circle class="i" cx="102.39" cy="54.87" r="49.87"/>
+      <circle class="g" cx="152.26" cy="54.87" r="42.74"/>
     </g>
   </g>
 </svg>

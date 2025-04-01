@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg id="b" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" width="154.86" height="154.86" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 154.86 154.86">
+<svg id="b" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" width="176.67" height="176.67" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 176.67 176.67">
   <defs>
     <style>
       .e {
@@ -9,7 +9,7 @@
         stroke-width: 5px;
       }
     </style>
-    <radialGradient id="d" cx="673.22" cy="-1407.62" fx="673.22" fy="-1407.62" r="123.56" gradientTransform="translate(-1427.75 678.45) rotate(44.12) scale(1 1.05)" gradientUnits="userSpaceOnUse">
+    <radialGradient id="d" cx="594.15" cy="-1606.31" fx="594.15" fy="-1606.31" r="141.54" gradientTransform="translate(-1504.31 895.42) rotate(44.12) scale(1 1.05)" gradientUnits="userSpaceOnUse">
       <stop offset="0" stop-color="#568444"/>
       <stop offset=".28" stop-color="#578545"/>
       <stop offset=".38" stop-color="#5d894c"/>
@@ -23,6 +23,6 @@
     </radialGradient>
   </defs>
   <g id="c" data-name="Layer 1">
-    <path class="e" d="M72.41,148.39l-8.76-36.95c-2.38-10.02-10.2-17.85-20.23-20.23l-36.95-8.76c-5.3-1.25-5.3-8.79,0-10.05l36.95-8.76c10.02-2.38,17.85-10.2,20.23-20.23l8.76-36.95c1.25-5.3,8.79-5.3,10.05,0l8.76,36.95c2.38,10.02,10.2,17.85,20.23,20.23l36.95,8.76c5.3,1.25,5.3,8.79,0,10.05l-36.95,8.76c-10.02,2.38-17.85,10.2-20.23,20.23l-8.76,36.95c-1.25,5.3-8.79,5.3-10.05,0Z"/>
+    <path class="e" d="M82.58,169.62l-10.03-42.33c-2.72-11.48-11.69-20.45-23.17-23.17l-42.33-10.03c-6.07-1.44-6.07-10.07,0-11.51l42.33-10.03c11.48-2.72,20.45-11.69,23.17-23.17l10.03-42.33c1.44-6.07,10.07-6.07,11.51,0l10.03,42.33c2.72,11.48,11.69,20.45,23.17,23.17l42.33,10.03c6.07,1.44,6.07,10.07,0,11.51l-42.33,10.03c-11.48,2.72-20.45,11.69-23.17,23.17l-10.03,42.33c-1.44,6.07-10.07,6.07-11.51,0Z"/>
   </g>
 </svg>
